@@ -35,7 +35,7 @@ public class RestaurantListService {
 		restaurantListRepository.delete(restaurant);
 	}
 
-	
+	//remaining catch exception
 
 	
 }
